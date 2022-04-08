@@ -1,0 +1,7 @@
+D:\Projects\gPrep\graphs\AlienDictionary\AlienDictionary\obj\Debug\AlienDictionary.csprojAssemblyReference.cache
+D:\Projects\gPrep\graphs\AlienDictionary\AlienDictionary\obj\Debug\AlienDictionary.csproj.CoreCompileInputs.cache
+D:\Projects\gPrep\graphs\AlienDictionary\AlienDictionary\bin\Debug\AlienDictionary.exe.config
+D:\Projects\gPrep\graphs\AlienDictionary\AlienDictionary\bin\Debug\AlienDictionary.exe
+D:\Projects\gPrep\graphs\AlienDictionary\AlienDictionary\bin\Debug\AlienDictionary.pdb
+D:\Projects\gPrep\graphs\AlienDictionary\AlienDictionary\obj\Debug\AlienDictionary.exe
+D:\Projects\gPrep\graphs\AlienDictionary\AlienDictionary\obj\Debug\AlienDictionary.pdb
